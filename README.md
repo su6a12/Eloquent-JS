@@ -1,2 +1,2 @@
 # Eloquent-JS
-Solutions to all of the exercises from Eloquent JS
+Solutions to exercises from Eloquent JS ebook
